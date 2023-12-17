@@ -1,3 +1,5 @@
+Make sure to manually install node as it is a large folder and is easier to upload without it and easier to run when manually installed on own device.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
